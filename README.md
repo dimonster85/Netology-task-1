@@ -25,4 +25,3 @@
   color: red;
 }
 ```
-![](./logo.png)
